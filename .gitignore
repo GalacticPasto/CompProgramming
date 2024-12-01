@@ -1,0 +1,8 @@
+*.out
+*.exe
+<<<<<<< HEAD
+=======
+.vs
+*.dSYM
+Solution
+>>>>>>> 52fdaa3 (solutions)
